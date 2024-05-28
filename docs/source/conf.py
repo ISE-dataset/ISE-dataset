@@ -34,4 +34,4 @@ html_theme = 'sphinx_rtd_theme'
 epub_show_urls = 'footnote'
 
 
-source_suffix = '.md'
+source_suffix = ['.rst', '.md']

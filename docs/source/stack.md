@@ -31,3 +31,8 @@ Software developers have heavily used online question-and-answer platforms to se
 [Paper](https://arxiv.org/pdf/2210.15846) |
 [Source Code](https://github.com/beyondacm/DeepAns) |
 [Dataset](https://drive.google.com/file/d/16u1IUv1GyCNxhinxzmY9Xg2F_IdZSA5S/view?usp=sharing)
+
+## Towards Better Answers: Automated Stack Overflow Post Updating
+
+[Source Code](https://figshare.com/articles/online_resource/Automatic_Post_Updating_zip/25465282) |
+[Dataset](https://figshare.com/articles/online_resource/Automatic_Post_Updating_zip/25465282)
