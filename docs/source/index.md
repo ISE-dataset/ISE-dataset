@@ -8,5 +8,4 @@
 
 ## Contents
 
-- [Usage](usage.md)
-- [API](api.md)
+- [Stack Overflow Post](stack.md)
